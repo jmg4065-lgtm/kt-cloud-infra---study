@@ -1,3 +1,4 @@
+```yaml
 apiVersion: apps/v1
 kind: Deployment
 metadata:
@@ -18,3 +19,4 @@ spec:
           image: fao0711/php-app:latest
           ports:
             - containerPort: 80
+```
