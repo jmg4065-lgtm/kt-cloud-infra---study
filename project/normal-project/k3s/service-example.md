@@ -1,3 +1,4 @@
+```yaml
 apiVersion: v1
 kind: Service
 metadata:
@@ -11,3 +12,4 @@ spec:
     - port: 80
       targetPort: 80
       nodePort: 30081
+```
