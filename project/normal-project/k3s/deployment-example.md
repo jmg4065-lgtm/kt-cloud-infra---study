@@ -18,3 +18,4 @@ spec:
           image: fao0711/php-app:latest
           ports:
             - containerPort: 80
+
